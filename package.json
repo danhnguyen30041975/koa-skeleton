@@ -27,7 +27,7 @@
         "arrowParens": "always"
     },
     "engines": {
-        "node": ">=9.x"
+        "node": "11.x"
     },
     "dependencies": {
         "autolinker": "^1.6.2",
